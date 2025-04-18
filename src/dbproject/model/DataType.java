@@ -1,5 +1,5 @@
 package dbproject.model;
 
-enum DataType {
+public enum DataType {  
     INTEGER, FLOAT, STRING, NULL
 }
